@@ -109,11 +109,11 @@
 <!-- gif -->
 <img  src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" autoplay>
 <br>
-
+<!-- 
 <img width="100%" align="centre" src="https://github-readme-stats.vercel.app/api?username=UjjwalAggarwal-1&show_icons=true&theme=dark">
 <br>
 
-<img width="100%" align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=UjjwalAggarwal-1&theme=dark">
+<img width="100%" align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=UjjwalAggarwal-1&theme=dark"> -->
 </td>
 </tr>
 </table>
