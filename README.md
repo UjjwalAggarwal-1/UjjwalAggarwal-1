@@ -98,7 +98,7 @@
 <img src="https://img.shields.io/badge/Codechef-6b371c?style=for-the-badge&logo=codechef">
 </a>
 <br>
-<a href = "https://leetcode.com/f20212427/">
+<a href = "https://leetcode.com/__UJ__/">
 <img src="https://img.shields.io/badge/leetcode-aba9a8?style=for-the-badge&logo=leetcode">
 </a>
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=UjjwalAggarwal-1&show_icons=true&theme=dark)
