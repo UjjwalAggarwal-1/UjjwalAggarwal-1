@@ -7,7 +7,7 @@
     Some things about me:
 </span>
 
-- 🔭 I’m currently working on [Student's Union Web Portal](https://su-bitspilani.org/)
+- 🔭 I’m currently working on [StudyDeck - Course Management Platform](https://studydeck.bits-sutechteam.org/)
 - 🤯 Started learning about basics of networks.
 - 🌱 I’m currently building good code habits when working in big teams
 - 👯 I’m looking to collaborate on NodeJS, prefferably someone who has experience in NodeJS
