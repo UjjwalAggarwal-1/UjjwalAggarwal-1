@@ -90,16 +90,16 @@
 <br>
 <br>
 <!-- coding links -->
+<a href = "https://leetcode.com/__UJ__/">
+<img src="https://img.shields.io/badge/leetcode-aba9a8?style=for-the-badge&logo=leetcode">
+</a>
+<br>
 <a href = "https://codeforces.com/profile/ujjwal_uj">
 <img src="https://img.shields.io/badge/Codeforces-eec966?style=for-the-badge&logo=codeforces&logoColor=1b8fc8">
 </a>
 <br>
 <a href = "https://www.codechef.com/users/f20212427">
 <img src="https://img.shields.io/badge/Codechef-6b371c?style=for-the-badge&logo=codechef">
-</a>
-<br>
-<a href = "https://leetcode.com/__UJ__/">
-<img src="https://img.shields.io/badge/leetcode-aba9a8?style=for-the-badge&logo=leetcode">
 </a>
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=UjjwalAggarwal-1&show_icons=true&theme=dark)
 ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=UjjwalAggarwal-1&theme=dark) -->
