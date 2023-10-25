@@ -10,8 +10,8 @@
 - 🔭 I’m currently working on [StudyDeck - Course Management Platform](https://studydeck.bits-sutechteam.org/)
 - 🤯 Started learning about basics of networks.
 - 🌱 I’m currently building good code habits when working in big teams
-- 👯 I’m looking to collaborate on NodeJS, prefferably someone who has experience in NodeJS
-- 🤔 I’m looking for help with dotNet deployment on AWS
+- 👯 I’m looking to collaborate on QUIC, anyone who is interested to implement it for a backend.
+- 🤔 I’m looking for help with the algorithm confusion attack on a Django backend using simplejwt for authentication, for educational purposes only.
 - 💬 Ask me about backend development or networks
 - 📫 How to reach me (email): 12aujjwalbis.aggarwal@gmail.com
 - 😄 Pronouns: He/Him
