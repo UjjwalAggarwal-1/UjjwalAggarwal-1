@@ -8,8 +8,8 @@
 </span>
 
 - 🔭 I’m currently working on [StudyDeck - Course Management Platform](https://studydeck.bits-sutechteam.org/)
-- 🤯 Started learning about basics of networks.
-- 🌱 I’m currently building good code habits when working in big teams
+- 🤯 Started learning about networks, exploring HTTP 2 and HTTP 3.
+- 🌱 I’m currently building good code habits when working in big teams, on big projects
 - 👯 I’m looking to collaborate on QUIC, anyone who is interested to implement it for a backend.
 - 🤔 I’m looking for help with the algorithm confusion attack on a Django backend using simplejwt for authentication, for educational purposes only.
 - 💬 Ask me about backend development or networks
